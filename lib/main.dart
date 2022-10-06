@@ -29,6 +29,7 @@ class _App extends State<App> {
 
     Column columns = Column(
       children: <Widget>[
+        Text("Calculadora de soma, digite os numeros desejados\n"),
         num1,
         num2,
         botao,
